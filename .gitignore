@@ -1,4 +1,12 @@
+# окружение
 env_shift
+# файлы с данными и модели
+*.csv
+*.pkl
+*.pickle
+# база данных optuna
+*.db
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
