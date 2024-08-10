@@ -21,6 +21,7 @@ seaborn = "0.13.2"
 shap = "0.45.0"
 loguru = "0.7.2"
 plotly = "5.23.0"
+phik = "0.12.4"
 
 
 [build-system]
