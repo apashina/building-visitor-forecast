@@ -4,6 +4,7 @@ env_shift
 *.csv
 *.pkl
 *.pickle
+*.cbm
 # база данных optuna
 *.db
 

@@ -22,6 +22,7 @@ shap = "0.45.0"
 loguru = "0.7.2"
 plotly = "5.23.0"
 phik = "0.12.4"
+optuna-integration = "3.6.0"
 
 
 [build-system]
