@@ -20,4 +20,4 @@
 
 График изменения функции потерь по мере удаления признаков:
 
-![select_features](.\pictures\select_features.png)
+![select_features](./pictures/select_features.png)
