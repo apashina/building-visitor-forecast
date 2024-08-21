@@ -9,6 +9,8 @@ env_shift
 # файлы poetry
 *.lock
 *.toml
+# catboost
+catboost_info
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
