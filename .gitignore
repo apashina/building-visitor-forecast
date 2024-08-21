@@ -2,11 +2,13 @@
 env_shift
 # файлы с данными и модели
 *.csv
+*.zip
 *.pkl
 *.pickle
 *.cbm
-# база данных optuna
-*.db
+# файлы poetry
+*.lock
+*.toml
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
